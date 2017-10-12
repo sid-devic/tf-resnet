@@ -1,2 +1,2 @@
 # tf-resnet
-implementation of a residual network in tensorflow
+implementation of a residual network in tensorflow.
